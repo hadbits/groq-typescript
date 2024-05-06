@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.0 (2024-05-06)
+
+Full Changelog: [v0.3.3...v0.4.0](https://github.com/groq/groq-typescript/compare/v0.3.3...v0.4.0)
+
+### Features
+
+* **api:** update via SDK Studio ([#25](https://github.com/groq/groq-typescript/issues/25)) ([91227eb](https://github.com/groq/groq-typescript/commit/91227eb651fd0ff2aad71cc6decc3ed0c33ef77e))
+
 ## 0.3.3 (2024-04-29)
 
 Full Changelog: [v0.3.2...v0.3.3](https://github.com/groq/groq-typescript/compare/v0.3.2...v0.3.3)
